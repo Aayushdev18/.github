@@ -47,6 +47,8 @@ We’re participating in **Hacktoberfest 2025**!
 Join the conversation, share your ideas, and help shape our projects:  
 👉 [Hacktoberfest 2025 Discussion](https://github.com/orgs/OpenCodeChicago/discussions/2)
 
+We’re also organizing our ideas and tech discussions on a **Planning Board**:  
+👉 [Hacktoberfest 2025 Planning Project](https://github.com/orgs/OpenCodeChicago/projects/2/views/1)
 
 <img
   width="500"
