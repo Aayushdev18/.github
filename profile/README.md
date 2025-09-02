@@ -41,13 +41,21 @@ Welcome to the official repository of **Open Code Chicago**! We are a dynamic op
 
 ---
 
-**Upcoming Event**:
+**Upcoming Event – Hacktoberfest 2025** 🎃
 
-  <img
-  align="left"
+We’re participating in **Hacktoberfest 2025**!  
+Join the conversation, share your ideas, and help shape our projects:  
+👉 [Hacktoberfest 2025 Discussion](https://github.com/orgs/OpenCodeChicago/discussions/2)
+
+
+<img
   width="500"
-  src="../images/october12.png"
+  src="../images/hacktoberfest_2025.png"
   alt="Upcoming Open Code Chicago event"
 />
+
+💡 We’ll announce official project repos and contribution guidelines soon!
+
+---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>We love connecting with different people</b> so if you want to say <b>hi, We'll be happy to meet you more!</b> :)</em>
