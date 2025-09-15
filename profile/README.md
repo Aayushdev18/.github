@@ -52,11 +52,9 @@ We’re also organizing our ideas and tech discussions on a **Planning Board**:
 
 <img
   width="500"
-  src="../images/hacktoberfest_2025.png"
+  src="../images/hacktoberfest2025.png"
   alt="Upcoming Open Code Chicago event"
 />
-
-💡 We’ll announce official project repos and contribution guidelines soon!
 
 ---
 
