@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Quality Icons Preview</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: #f5f5f5;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        .icon-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+        .icon-item {
+            text-align: center;
+            padding: 20px;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            background: #fafafa;
+        }
+        .icon-item img {
+            width: 64px;
+            height: 64px;
+            margin-bottom: 15px;
+        }
+        .icon-name {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        .icon-description {
+            color: #666;
+            font-size: 14px;
+        }
+        .usage-section {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        .usage-section h3 {
+            margin-top: 0;
+            color: #333;
+        }
+        .code-block {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Product Quality Icons</h1>
+        
+        <div class="icon-grid">
+            <div class="icon-item">
+                <img src="non-gmo-icon.svg" alt="Non-GMO Icon">
+                <div class="icon-name">Non-GMO</div>
+                <div class="icon-description">DNA helix with checkmark representing non-genetically modified certification</div>
+            </div>
+            
+            <div class="icon-item">
+                <img src="no-antibiotics-icon.svg" alt="No Antibiotics Icon">
+                <div class="icon-name">No Antibiotics</div>
+                <div class="icon-description">Prohibited pill symbol indicating no antibiotics used</div>
+            </div>
+            
+            <div class="icon-item">
+                <img src="hydrolyzed-icon.svg" alt="Hydrolyzed Icon">
+                <div class="icon-name">100% Hydrolyzed</div>
+                <div class="icon-description">Water molecule with process arrows showing hydrolysis</div>
+            </div>
+            
+            <div class="icon-item">
+                <img src="vegan-icon.svg" alt="Vegan Icon">
+                <div class="icon-name">Vegan</div>
+                <div class="icon-description">Leaf with "V" symbol for vegan-friendly products</div>
+            </div>
+            
+            <div class="icon-item">
+                <img src="organic-icon.svg" alt="Organic Icon">
+                <div class="icon-name">Organic</div>
+                <div class="icon-description">Wheat stalks in certification circle for organic products</div>
+            </div>
+        </div>
+        
+        <div class="usage-section">
+            <h3>Usage Example</h3>
+            <div class="code-block">
+&lt;img src="non-gmo-icon.svg" alt="Non-GMO" width="64" height="64"&gt;
+&lt;img src="vegan-icon.svg" alt="Vegan" width="64" height="64"&gt;
+&lt;img src="organic-icon.svg" alt="Organic" width="64" height="64"&gt;
+            </div>
+        </div>
+    </div>
+</body>
+</html>
